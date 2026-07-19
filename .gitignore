@@ -1,0 +1,17 @@
+# Secrets / config
+.env
+*.pem
+*.key
+credentials.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Docs / large binaries
+Note on English Learning App for Youth (Skilling).pdf
+
+# OS
+.DS_Store
+Thumbs.db
